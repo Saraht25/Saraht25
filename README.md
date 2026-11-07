@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi, I’m Sarah!
 
-<!--
-**Saraht25/Saraht25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year Cybersecurity student at Ynov Paris, France
 
-Here are some ideas to get you started:
+🔐 ISC2 Certified in Cybersecurity (CC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about cybersecurity, networking, programming and IT security.
+
+🌍 Currently seeking a 4-week cybersecurity internship in Dubai, UAE (May 31 – June 28, 2027).
+
+🛠️ Technical Skills
+
+* Programming: Python, Go, Java, JavaScript, SQL, HTML
+* Networking: TCP/IP fundamentals, VLANs, Cisco Packet Tracer
+* Systems & Virtualization: Linux, VMware
+* Development Tools: Git, GitHub
+
+🚀 Academic Projects
+
+Here are some projects I have worked on during my studies at Ynov Paris, including collaborative projects developed as part of my coursework.
+
+🗄️ SQL Projects
+
+* Ciara Mobility
+* Advanced SQL Project — Eora
+
+🎮 Web Development & Programming
+
+* 404 Escape
+* Métiers Explorer
+* Groupie Tracker
+
+🌐 Languages
+
+* 🇫🇷 French — Native
+* 🇬🇧 English — Intermediate (B1–B2), currently improving
+* 🇪🇸 Spanish — Elementary (A2)
+
+🎯 Career Objective
+
+I am eager to strengthen my practical cybersecurity skills, contribute to real-world IT projects and gain professional experience in an international environment.
