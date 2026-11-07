@@ -6,7 +6,7 @@
 
 💻 Passionate about cybersecurity, networking, programming and IT security.
 
-🌍 Currently seeking a 4-week cybersecurity internship in Dubai, UAE (May 31 – June 28, 2027).
+🌍 Currently seeking a 4-week cybersecurity internship, from May 31 to June 28, 2027. Open to opportunities in Dubai (UAE) and France.
 
 🛠️ Technical Skills
 
